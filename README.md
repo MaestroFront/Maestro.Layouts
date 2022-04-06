@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaestroFront
+- 👋 Hi, I’m Maestro
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently studying at home
 - 💞️ I’m looking to internship opportunities in any campaign
